@@ -35,7 +35,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>300</max_length>
+        <max_length>400</max_length>
         <name>x_test_vvv_table</name>
         <next_element/>
         <primary>false</primary>
@@ -55,14 +55,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-12 23:50:19</sys_created_on>
         <sys_id>470afdf2f8230300978c299b7726edda</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>ooook</sys_name>
         <sys_package display_value="test_vvv" source="x_test_vvv">a8c935f2f8230300978c299b7726eda2</sys_package>
         <sys_policy/>
         <sys_scope display_value="test_vvv">a8c935f2f8230300978c299b7726eda2</sys_scope>
         <sys_update_name>sys_dictionary_x_test_vvv_table_ooook</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-12 23:52:03</sys_updated_on>
+        <sys_updated_on>2018-01-12 23:52:36</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
