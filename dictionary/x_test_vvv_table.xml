@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="test_vvv Table" max_length="40" name="x_test_vvv_table" type="collection"/>
+    <element label="test_vvv Table" max_length="40" name="x_test_vvv_table" type="collection">
+        <element label="ooook" max_length="200" name="ooook" type="string"/>
+    </element>
 </database>
